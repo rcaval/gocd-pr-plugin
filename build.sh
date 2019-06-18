@@ -1,3 +1,3 @@
 #!/bin/sh
 
-echo "Build from PR Successful!"
+echo "new commit Build from PR Successful!"
