@@ -1,3 +1,4 @@
 #!/bin/sh
 
-echo "Build Successful!"
+echo "new commit Build from PR not succesful!"
+exit 1
