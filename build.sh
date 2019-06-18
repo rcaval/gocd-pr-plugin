@@ -1,3 +1,3 @@
 #!/bin/sh
 
-echo "Build Successful!"
+echo "Build from PR Successful!"
